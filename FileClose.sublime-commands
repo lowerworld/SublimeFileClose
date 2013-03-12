@@ -1,0 +1,4 @@
+[
+    { "command": "file_close_others", "caption": "File: Close Others" },
+    { "command": "file_close_to_right", "caption": "File: Close To The Right" }
+]
